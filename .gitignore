@@ -1,0 +1,13 @@
+#
+# folder
+#
+
+.idea/
+META-INF/
+out/
+
+#
+# files
+#
+
+readmore-threadinfo.iml
